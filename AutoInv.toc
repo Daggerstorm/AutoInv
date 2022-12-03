@@ -3,5 +3,5 @@
 ## Notes: Does exactly what it sounds like.
 ## SavedVariables: AutoInvSettings
 ## Version: 0.2
-## Author: Daggerstorm - Earthfury
+## Author: Griselbees - Faerlina
 AutoInv.lua
