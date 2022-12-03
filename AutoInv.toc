@@ -1,6 +1,7 @@
 ## Interface: 80250
 ## Title: AutoInv
-## Notes: Sweep the Leg
-## Version: 0.1
+## Notes: Does exactly what it sounds like.
+## SavedVariables: AutoInvSettings
+## Version: 0.2
 ## Author: Daggerstorm - Earthfury
 AutoInv.lua
